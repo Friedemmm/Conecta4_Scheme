@@ -32,8 +32,8 @@ Laboratorio-1-Paradigmas/
  
  **Clonar o descargar el repositorio**:
 ```bash
-git clone <url-repositorio>
 cd Laboratorio-1-Paradigmas
+git clone https://github.com/Friedemmm/Conecta4_Sceheme.git
 ```
 
 ### Inicializar una partida
